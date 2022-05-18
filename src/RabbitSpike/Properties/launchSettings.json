@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitSpike": {
+      "commandName": "Project",
+      "commandLineArgs": "runner"
+    }
+  }
+}
